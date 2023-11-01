@@ -1,0 +1,11 @@
+UserSettings/
+Library/
+Packages/
+Temp/
+ProjectSettings/
+WebGL Builds/
+Logs/
+connectwebgl.zip
+mono_crash.265ab541b4.0.json
+webgl_sharing
+.DS_Store
